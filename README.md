@@ -41,9 +41,7 @@ A E Learning Website In PHP with Chat Feature through AJAX ,includes multiple we
 " target="_blank"><img src="http://img.youtube.com/vi/yF6xBI1d8Lg/0.jpg" 
 alt="RoadFighter " width="240" height="180" border="10" /></a>
 
-![YouTube Video Views](https://img.shields.io/youtube/views/yF6xBI1d8Lg?style=plastic)
-![YouTube Video Votes](https://img.shields.io/youtube/likes/yF6xBI1d8Lg?style=social&withDislikes)
-![YouTube Video Comments](https://img.shields.io/youtube/comments/yF6xBI1d8Lg?style=social)
+
 
 
 ### Installing
