@@ -14,7 +14,7 @@ A E Learning Website In PHP with Chat Feature through AJAX ,includes multiple we
 [Installing](#Installing)
 
 
-![Demo Video](https://j.gifs.com/p81l5N.gif)
+
 
 
 ## Features 
